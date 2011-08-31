@@ -1,0 +1,4 @@
+Usage described in Main function. Demo:
+$ javac JIMageMap.java
+$ java JImageMap
+
